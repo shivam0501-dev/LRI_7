@@ -1,0 +1,14 @@
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\bin\Debug\net7.0\LRI7.DataAccess.deps.json
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\bin\Debug\net7.0\LRI7.DataAccess.runtimeconfig.json
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\bin\Debug\net7.0\LRI7.DataAccess.dll
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\bin\Debug\net7.0\LRI7.DataAccess.pdb
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\LRI7.DataAccess.csproj.AssemblyReference.cache
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\LRI7.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\LRI7.DataAccess.AssemblyInfoInputs.cache
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\LRI7.DataAccess.AssemblyInfo.cs
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\LRI7.DataAccess.csproj.CoreCompileInputs.cache
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\LRI7.DataAccess.dll
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\refint\LRI7.DataAccess.dll
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\LRI7.DataAccess.pdb
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\LRI7.DataAccess.genruntimeconfig.cache
+E:\ShivamAgrahari\SelfProject\LRI_7\LRI7.DataAccess\obj\Debug\net7.0\ref\LRI7.DataAccess.dll
