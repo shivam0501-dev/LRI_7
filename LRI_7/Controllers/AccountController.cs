@@ -11,9 +11,12 @@ namespace LRI_7.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Registration(Registration r)
+        public async Task<string> Registration(Registration r)
         {
-           
+           if(ModelState.IsValid){
+            var userExists="this is valid model";
+           }
+           return "ravi test";
         }
     }
 }
