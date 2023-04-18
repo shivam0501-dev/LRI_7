@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_DataAccess\\LRI7_DataAccess.csproj": {}
+    "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_DataAccess\\LRI7_DataAccess.csproj": {}
   },
   "projects": {
-    "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_DataAccess\\LRI7_DataAccess.csproj": {
+    "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_DataAccess\\LRI7_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_DataAccess\\LRI7_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_DataAccess\\LRI7_DataAccess.csproj",
         "projectName": "LRI7_DataAccess",
-        "projectPath": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_DataAccess\\LRI7_DataAccess.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_DataAccess\\LRI7_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\SHIVAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SHIVAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Models\\LRI7_Models.csproj": {
-                "projectPath": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Models\\LRI7_Models.csproj"
+              "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Models\\LRI7_Models.csproj": {
+                "projectPath": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Models\\LRI7_Models.csproj"
               },
-              "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj": {
-                "projectPath": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj"
+              "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj": {
+                "projectPath": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj"
               }
             }
           }
@@ -96,24 +96,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Models\\LRI7_Models.csproj": {
+    "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Models\\LRI7_Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Models\\LRI7_Models.csproj",
+        "projectUniqueName": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Models\\LRI7_Models.csproj",
         "projectName": "LRI7_Models",
-        "projectPath": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Models\\LRI7_Models.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Models\\obj\\",
+        "projectPath": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Models\\LRI7_Models.csproj",
+        "packagesPath": "C:\\Users\\SHIVAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SHIVAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -177,24 +177,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj": {
+    "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj",
+        "projectUniqueName": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj",
         "projectName": "LRI7_Utility",
-        "projectPath": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\ShivamAgrahari\\SelfProject\\LRI_7\\LRI7_Utility\\obj\\",
+        "projectPath": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Utility\\LRI7_Utility.csproj",
+        "packagesPath": "C:\\Users\\SHIVAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SHIVAM\\Source\\Repos\\LRI_7\\LRI7_Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SHIVAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -236,7 +236,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,7 +10,7 @@ namespace LRI7_Models
     public class Login
     {
         [Required]
-        public string UserNameOrEmail { get; set; }
+        public string UserName { get; set; }
         [Required]
         public string Password { get; set; }
     }

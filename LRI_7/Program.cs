@@ -1,5 +1,7 @@
 using LRI7_DataAccess.Data;
 using LRI7_DataAccess.Entity;
+using LRI7_DataAccess.UnitOfWork;
+using LRI7_DataAccess.UnitOfWork.IUnitOfwork;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,6 +19,7 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
 
 builder.Services.ConfigureApplicationCookie(option=>option.LoginPath="/UserAuthentication/Login");
 
+builder.Services.AddScoped<IunitOfWork, UnitOfWork>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
